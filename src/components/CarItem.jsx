@@ -11,4 +11,4 @@ function CarItem({ car }) {
   );
 }
 
-export default CarItem;
+export default Test;
