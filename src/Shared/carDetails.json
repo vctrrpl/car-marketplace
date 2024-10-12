@@ -34,7 +34,15 @@
       "label": "Category",
       "name": "category",
       "fieldType": "dropdown",
-      "options": ["Sedan", "SUV", "Truck", "Coupe", "Convertible", "Van"],
+      "options": [
+        "Sedan",
+        "SUV",
+        "Truck",
+        "Coupe",
+        "Convertible",
+        "Van",
+        "Hatchback"
+      ],
       "required": true,
       "column": 1,
       "icon": "FaCar"
